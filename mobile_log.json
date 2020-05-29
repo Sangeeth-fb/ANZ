@@ -1,0 +1,26 @@
+[
+{
+      "mobileNum": "1234567890",
+      "url": "www.google.com",
+      "SessionStartTime": "2020-02-26 00:00:00",
+      "SessionEndTime": "2020-02-27 00:00:00",
+      "bytesIn": "1024",
+      "bytesOut": "1024"
+  },
+  {
+      "mobileNum": "9739543322",
+      "url": "www.google.com",
+      "SessionStartTime": "2020-02-26 00:00:00",
+      "SessionEndTime": "2020-02-27 00:00:00",
+      "bytesIn": "2048",
+      "bytesOut": "2048"
+  },
+  {
+      "mobileNum": "9739543322",
+      "url": "www.google.com",
+      "SessionStartTime": "2020-02-26 00:00:00",
+      "SessionEndTime": "2020-02-27 00:00:00",
+      "bytesIn": "2048",
+      "bytesOut": "2048"
+  }
+]
